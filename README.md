@@ -6,11 +6,11 @@
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Приоритезация гипотез](educational_projects/AB_test/ab_test.ipynb) | Приоритизируйтезация гипотез, запустите A/B-тест и проанализируйте результаты.| *pandas*, *numpy*,*scipy.stats* |
-| [Юнит экономика](educational_projects\unity_economy\ltv_roi.ipynb)| Разобраться в причинах убытков бизнеса | *pandas*, *seaborn*, *numpy*|
+| [Юнит экономика](educational_projects/unity_economy/ltv_roi.ipynb)| Разобраться в причинах убытков бизнеса | *pandas*, *seaborn*, *numpy*|
 
 ## Данные проекты были выполнены в ходе обучения в ходе работы
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Отчет по категориям](working_project\report_by_category\rep_by_category.ipynb) | Необходимо с достать из DWH, данные по аптекам  и разбить их по 14 категорям в разных оформленных Excel файлах| *cx_Oracle*, *xlsxwriter*, *sqlalchemy*|
-| [Еженедельный отчет](working_project\weekly_report\kpc.ipynb) | Необходимо достать из DWH и файлов, данные и расчитать количество позиций в чеке, по всем аптекам и кассирам| *cx_Oracle*, *xlsxwriter*, *sqlalchemy*|
+| [Отчет по категориям](working_project/report_by_category/rep_by_category.ipynb) | Необходимо с достать из DWH, данные по аптекам  и разбить их по 14 категорям в разных оформленных Excel файлах| *cx_Oracle*, *xlsxwriter*, *sqlalchemy*|
+| [Еженедельный отчет](working_project/weekly_report/kpc.ipynb) | Необходимо достать из DWH и файлов, данные и расчитать количество позиций в чеке, по всем аптекам и кассирам| *cx_Oracle*, *xlsxwriter*, *sqlalchemy*|
