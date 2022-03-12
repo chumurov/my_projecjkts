@@ -9,6 +9,9 @@
 | [Юнит экономика](educational_projects/unity_economy/ltv_roi.ipynb)| Разбор в причинах убытков бизнеса | *pandas*, *seaborn*, *numpy*|
 | [Статистический анализ данных](educational_projects/statistical_data_analysis/statistical_data_analysis.ipynb) | Определение перспективного тарифа для телеком-компании  | *plotly*, *pandas*, *scipy*|
 | [Проект по визуализации и геокодингу ](educational_projects/visualization/grafiki.ipynb) | Необходимо определеть положение дел на рынке  общественного питания Москвы  | *plotly*, *bs4*, *requests*, *json*|
+| [Проект по Tableau ](https://public.tableau.com/app/profile/nikita8719/viz/sbornii/Dashboard1?publish=yes)| Анализ потребительской лояльности среди клиентов России  | |
+
+
 
 ## Данные проекты были выполнены в ходе работы
 
