@@ -21,3 +21,4 @@
 | [Еженедельный отчет](working_project/weekly_report/kpc.ipynb) | Скрипт который достает с DWH, файлов данные и рассчитывает долю чеков с 1й позицией, количество позиций в чеке и другие метрики, по аптекам, филиалам, категориям и кассирам, а также выдает результат в оформленном excel файле. | *cx_Oracle*, *xlsxwriter*, *sqlalchemy*|
 | [Парсер конкурентов](working_project/parser/parser.ipynb) | Парсер цен и асортимента конкурентов аптека.ру  | *bs4*, *pandas*, *requests*|
 | [Документы с сервера отчетов](working_project/selenium_skript/selenium.ipynb) | Простой скрипт на селениуме, чтобы доставать документы с сервера отчетов | *selenium*, *pandas*|
+| [Тестовое задание в одну компанию ](working_project/testovoe1/testovoe.ipynb)| Расчет и прогноз LTV и ROMI  | *sklearn*, *matplotlib*, *pandas* |
