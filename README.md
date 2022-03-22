@@ -5,11 +5,13 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Приоритезация гипотез](educational_projects/AB_test/ab_test.ipynb) | Приоритизируйтезация гипотез, проведение A/B-теста и анализ результатов.| *pandas*, *numpy*,*scipy.stats* |
+| [Приоритезация гипотез](educational_projects/AB_test/ab_test.ipynb) | Приоритезация гипотез, проведение A/B-теста и анализ результатов.| *pandas*, *numpy*,*scipy.stats* |
 | [Юнит экономика](educational_projects/unity_economy/ltv_roi.ipynb)| Разбор в причинах убытков бизнеса | *pandas*, *seaborn*, *numpy*|
 | [Статистический анализ данных](educational_projects/statistical_data_analysis/statistical_data_analysis.ipynb) | Определение перспективного тарифа для телеком-компании  | *plotly*, *pandas*, *scipy*|
 | [Проект по визуализации и геокодингу ](educational_projects/visualization/grafiki.ipynb) | Необходимо определеть положение дел на рынке  общественного питания Москвы  | *plotly*, *bs4*, *requests*, *json*|
 | [Проект по Tableau ](https://public.tableau.com/app/profile/nikita8719/viz/sbornii/Dashboard1?publish=yes)| Анализ потребительской лояльности среди клиентов России  | |
+| [Машинное обучение ](educational_projects/ml/ml.ipynb)| Прогноз оттока клинтовов, выделение целевых групп  | *sklearn*, *plotly*, *scipy*|
+
 
 
 
