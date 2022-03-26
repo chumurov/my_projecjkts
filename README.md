@@ -24,4 +24,3 @@
 | [Парсер конкурентов](working_project/parser/parser.ipynb) | Парсер цен и асортимента конкурентов аптека.ру  | *bs4*, *pandas*, *requests*|
 | [Документы с сервера отчетов](working_project/selenium_skript/selenium.ipynb) | Простой скрипт на селениуме, чтобы доставать документы с сервера отчетов | *selenium*, *pandas*|
 | [Тестовое задание в одну компанию ](working_project/testovoe1/testovoe.ipynb)| Расчет и прогноз LTV и ROMI  | *sklearn*, *matplotlib*, *pandas* |
-| [Тестовое задание в другую компанию ](working_project/testovoe2/testovoe.ipynb)| Построить прогноз трафика и процента конверсии на март 2021-февраль 2023  | *darts*, *NBEATSModel*, *TimeSeries* |
